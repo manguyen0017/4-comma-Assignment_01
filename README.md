@@ -38,7 +38,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
+A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s unbiased, early-state responses and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustrations in AI-driven creative tools.
 
 Example of how to make a list:
 There are many great README templates available on GitHub.
@@ -57,7 +57,11 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
+Generative AI tools have become widely used for art, text generation, and creative workflows, yet they often struggle with misinterpretation, overcorrection, and unintended distortions. This issue is particularly evident in AI image generation, where users must refine prompts iteratively to achieve desired results—often encountering unexpected biases, distortions, or hallucinations in the process.
+
+AI hallucinations occur when generative models fabricate information that does not exist or distort elements in an unpredictable way ("Artificial Intelligence Hallucinations")—a common frustration among artists attempting to refine AI-generated visuals. These inaccuracies force users into an iterative correction loop, tweaking prompts in hopes of fixing errors, yet often causing new ones ("How Do People React to AI Failure?").
+
+Moreover, research suggests that AI failures are not only a technical issue but also a psychological one, as users frequently overestimate AI’s intelligence and expect human-like reasoning from systems that rely solely on mathematical probability ("AI Oversight and Human Mistakes..."). This mismatch between user intent and AI response creates a frustrating, yet humorous, struggle—one that this project aims to capture through satirical storytelling.
 
 Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
 Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
@@ -137,8 +141,8 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: images/fig1.png
-[images-fig2]: images/fig2.jpg
-[images-fig3]: images/fig3.jpg
+[images-fig2]: images/fig2.png
+[images-fig3]: images/fig3.png
 [images-fig4]: images/fig4.png
 [images-fig5]: images/fig5.png
 [images-fig6]: images/fig6.png
