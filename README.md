@@ -51,7 +51,7 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 ### Inspiration
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig2]](www.gocomics.com/bignate/2004/08/29) <!-- Big Nate Comic -->
 
 Figure 2. Related works in this domain. 
 
@@ -102,13 +102,13 @@ Figure 6. description for Figure 6
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. *Copy of MLA format
+[1] Zhang, Yiqun, et al. "Detecting and restoring non-standard hands in stable diffusion generated images." arXiv preprint arXiv:2312.04236 (2023).
 
-[2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
+[2] Almog, David, et al. "AI oversight and human mistakes: evidence from centre court." Proceedings of the 25th ACM Conference on Economics and Computation. 2024.
 
-[3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
+[3] Jones-Jang, S. Mo, and Yong Jin Park. "How do people react to AI failure? Automation bias, algorithmic aversion, and perceived controllability." Journal of Computer-Mediated Communication 28.1 (2023): zmac029.
 
-[4] 1. SiteThisForMe 
+[4] Peirce, Lincoln. “Big Nate by Lincoln Peirce for August 29, 2004.” GoComics, 29 Aug. 2004, www.gocomics.com/bignate/2004/08/29.
 
 <!-- CONTACT -->
 ## Contact
