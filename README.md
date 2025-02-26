@@ -72,7 +72,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Methodology
 
 ### Inspiration
-
+[![4-comma][images-fig3]](https://example.com)
 
 
 To execute this project, each panel will be generated individually to allow greater control over style, consistency, and AI hallucinations. The main challenges in AI-generated comics include:
@@ -80,8 +80,6 @@ To execute this project, each panel will be generated individually to allow grea
 * Maintaining art/comic style consistency across all panels.
 * Controlling "unwanted" distortions (hallucinations like extra limbs).
 * Ensuring coherence in visual storytelling (consistent character appearance, proportions, and scene layout).
-
-[![4-comma][images-fig3]](https://example.com)
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
