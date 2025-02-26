@@ -18,7 +18,7 @@
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: My Title Here</h3>
+  <h3 align="center">4-Comma: </h3>
 
   <p align="center">
     Short two sentence project desctiption here!
@@ -26,7 +26,7 @@
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://manguyen.myportfolio.com/">Michael Nguyen</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -34,7 +34,7 @@
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
+Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your image is not wide enough, it will not fill the page!
 
 <!-- Abstract -->
 ## Abstract
@@ -66,15 +66,20 @@ Moreover, research suggests that AI failures are not only a technical issue but 
 Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
 Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
 
-How to use subsection:
-
-### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Methodology
 
-Your Methodology and Related Works here: 200 words here.
+### Inspiration
+
+
+
+To execute this project, each panel will be generated individually to allow greater control over style, consistency, and AI hallucinations. The main challenges in AI-generated comics include:
+
+* Maintaining art/comic style consistency across all panels.
+* Controlling "unwanted" distortions (hallucinations like extra limbs).
+* Ensuring coherence in visual storytelling (consistent character appearance, proportions, and scene layout).
 
 [![4-comma][images-fig3]](https://example.com)
 
@@ -106,7 +111,7 @@ Figure 6. description for Figure 6
 
 [3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
 
-
+[4] 1. SiteThisForMe 
 
 <!-- CONTACT -->
 ## Contact
