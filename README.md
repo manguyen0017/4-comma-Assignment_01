@@ -18,7 +18,7 @@
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: </h3>
+  <h3 align="center">4-Comma: The Headaches of Iterative AI Generation</h3>
 
   <p align="center">
     Short two sentence project desctiption here!
