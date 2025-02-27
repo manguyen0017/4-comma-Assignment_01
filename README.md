@@ -65,7 +65,6 @@ The prompt refinement struggle is further explored in studies on user interactio
 ### 2.1 Creative Workflow
 
 The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool designed to streamline comic creation. The process involved several stages of iteration and refinement to achieve the desired visual style and narrative clarity.
-
 * Step 1: Used the "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
 * Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations.
 * Step 3: Exported the final AI-generated panels to Photoshop, where manual edits were made to ensure stylistic cohesion, correct inconsistencies, and refine details that AI misinterpreted.
@@ -86,9 +85,9 @@ The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
-<!-- [![4-comma][images-fig4]](https://example.com) -->
+<!-- [![4-comma][images-fig4]](https://example.com)
 
-Figure 4. description for Figure 5
+Figure 4. description for Figure 5 -->
 
 ## Result and Future Work
 The final 4-Koma successfully illustrates the frustrations of AI-driven art generation, emphasizing the gap between user intent and AI execution. Each panel showcases common AI pitfalls:
@@ -102,16 +101,16 @@ Future Work
 * Experimenting with different AI models and correction techniques.
 * Investigating user perception of AI-generated failures through surveys or user testing.
 
-<!-- [![4-comma][images-fig5]](https://example.com) -->
+<!-- [![4-comma][images-fig5]](https://example.com)
 
-Figure 5. description for Figure 5
+Figure 5. description for Figure 5 -->
 
 ## Conclusion
 This project highlights the iterative struggle of refining AI-generated content, using humor to emphasize the disconnect between user intent and AI execution. As AI continues evolving, understanding its limitations, biases, and unpredictability remains crucial—especially in creative fields where human expectations don’t always align with machine logic.
 
-<!-- [![4-comma][images-fig6]](https://example.com) -->
+<!-- [![4-comma][images-fig6]](https://example.com)
 
-Figure 6. description for Figure 6
+Figure 6. description for Figure 6 -->
 
 <!-- Bibliography -->
 ## Bibliography 
