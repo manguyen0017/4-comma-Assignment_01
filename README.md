@@ -40,16 +40,6 @@ Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative proce
 ## Abstract
 A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s unbiased, early-state responses and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustrations in AI-driven creative tools.
 
-Example of how to make a list:
-There are many great README templates available on GitHub.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
 ### Inspiration
 [![4-comma][images-fig2]](https://www.gocomics.com/bignate/2004/08/29) <!-- Big Nate Comic -->
 
@@ -74,11 +64,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 [![4-comma][images-fig3]](https://example.com)
 
-To execute this project, each panel will be generated individually to allow greater control over style, consistency, and AI hallucinations. The main challenges in AI-generated comics include:
+### 2.1 Creative Workflow
 
-* Maintaining art/comic style consistency across all panels.
-* Controlling "unwanted" distortions (hallucinations like extra limbs).
-* Ensuring coherence in visual storytelling (consistent character appearance, proportions, and scene layout).
+The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool designed to streamline comic creation. The process involved several stages of iteration and refinement to achieve the desired visual style and narrative clarity.
+
+* Step 1: Used the "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
+* Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations.
+* Step 3: Exported the final AI-generated panels to Photoshop, where manual edits were made to ensure stylistic cohesion, correct inconsistencies, and refine details that AI misinterpreted.
+
+### 2.2 Challenges & Iterative Process
+
+* Maintaining style consistency across panels.
+* Addressing AI hallucinations (e.g., malformed hands, extra limbs, distorted anatomy).
+* Ensuring coherent character expressions and proportions.
+* Avoiding unintended AI artifacts that could detract from the joke’s clarity.
+
+### 2.3 Tools & Techniques Used
+
+* AI Model: Anitoon.app AI Comic Generator (model specifics undisclosed).
+* Post-processing software: Adobe Photoshop for manual refinements.
+* Prompting strategies: Iterative AI generations, isolated panel adjustments, and selective negative prompts to refine details.
+
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
@@ -104,18 +110,19 @@ Figure 6. description for Figure 6
 ## Bibliography 
 [1] Zhang, Yiqun, et al. "Detecting and restoring non-standard hands in stable diffusion generated images." arXiv preprint arXiv:2312.04236 (2023).
 
-[2] Almog, David, et al. "AI oversight and human mistakes: evidence from centre court." Proceedings of the 25th ACM Conference on Economics and Computation. 2024.
+[2] Jones-Jang, S. Mo, and Yong Jin Park. "How do people react to AI failure? Automation bias, algorithmic aversion, and perceived controllability." Journal of Computer-Mediated Communication 28.1 (2023): zmac029.
 
-[3] Jones-Jang, S. Mo, and Yong Jin Park. "How do people react to AI failure? Automation bias, algorithmic aversion, and perceived controllability." Journal of Computer-Mediated Communication 28.1 (2023): zmac029.
+[3] Mahdavi Goloujeh, Atefeh, Anne Sullivan, and Brian Magerko. "Is It AI or Is It Me? Understanding Users’ Prompt Journey with Text-to-Image Generative AI Tools." Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. 2024.
+
 
 [4] Peirce, Lincoln. “Big Nate by Lincoln Peirce for August 29, 2004.” GoComics, 29 Aug. 2004, www.gocomics.com/bignate/2004/08/29.
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
+Michael Nguyen - manguyen@tamu.edu
 
-Personal Website: [https://website.com](https://website.com)
+Personal Website: [manguyen.myportfolio.com](https://manguyen.myportfolio.com)
 
 
 
