@@ -38,31 +38,29 @@ Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative proce
 
 <!-- Abstract -->
 ## Abstract
-A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s unbiased, early-state responses and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustrations in AI-driven creative tools.
+A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s early-state logic and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustration in AI-driven creative tools.
 
 ### Inspiration
 [![4-comma][images-fig2]](https://www.gocomics.com/bignate/2004/08/29) <!-- Big Nate Comic -->
 
-Figure 2. My 4-comma draws inspiration from this segment within Big Nate [4], an American comic strip, which subtly breaks the 4th wall. It utilizes 
+Figure 2. My 4-comma draws inspiration from this segment within Big Nate [4], an American comic strip, which subtly breaks the 4th wall.
+
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
 Generative AI tools have become widely used for art, text generation, and creative workflows, yet they often struggle with misinterpretation, overcorrection, and unintended distortions. This issue is particularly evident in AI image generation, where users must refine prompts iteratively to achieve desired results—often encountering unexpected biases, distortions, or hallucinations in the process.
 
-AI hallucinations occur when generative models fabricate information that does not exist or distort elements in an unpredictable way ("Artificial Intelligence Hallucinations")—a common frustration among artists attempting to refine AI-generated visuals. These inaccuracies force users into an iterative correction loop, tweaking prompts in hopes of fixing errors, yet often causing new ones ("How Do People React to AI Failure?").
+A major issue is AI hallucinations, where models generate inaccurate or exaggerated details. Research on AI-generated hands shows that models often produce extra fingers, unnatural anatomy, and distorted proportions, highlighting how AI struggles with complex structures and proportional accuracy [1].
 
-Moreover, research suggests that AI failures are not only a technical issue but also a psychological one, as users frequently overestimate AI’s intelligence and expect human-like reasoning from systems that rely solely on mathematical probability ("AI Oversight and Human Mistakes..."). This mismatch between user intent and AI response creates a frustrating, yet humorous, struggle—one that this project aims to capture through satirical storytelling.
+Beyond technical issues, user psychology influences how AI failures are perceived. Studies on automation bias and algorithmic aversion reveal that users tend to over-rely on AI or lose trust after mistakes, depending on how much control they feel over AI corrections [2]. This psychological factor is crucial in understanding why users continuously refine prompts despite repeated failures.
 
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+The prompt refinement struggle is further explored in studies on user interaction with text-to-image models, which highlight common frustrations and the need for more intuitive AI interfaces [3]. These works underscore the disconnect between AI logic and human expectations, a theme central to this project’s satirical exploration.
 
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Methodology
 
-[![4-comma][images-fig3]](https://example.com)
+<!-- [![4-comma][images-fig3]](https://example.com) -->
 
 ### 2.1 Creative Workflow
 
@@ -88,21 +86,30 @@ The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
-[![4-comma][images-fig4]](https://example.com)
+<!-- [![4-comma][images-fig4]](https://example.com) -->
 
 Figure 4. description for Figure 5
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+The final 4-Koma successfully illustrates the frustrations of AI-driven art generation, emphasizing the gap between user intent and AI execution. Each panel showcases common AI pitfalls:
+* Misinterpretation – AI generates incorrect anatomy.
+* Overcorrection – The user refines prompts, but AI takes adjustments too literally.
+* Temporary Success – The correction seems to work.
+* Unintended Failure – Fixing one issue causes another absurd problem.
 
-[![4-comma][images-fig5]](https://example.com)
+Future Work
+* Expanding beyond 4-Koma to explore longer-form AI satire.
+* Experimenting with different AI models and correction techniques.
+* Investigating user perception of AI-generated failures through surveys or user testing.
+
+<!-- [![4-comma][images-fig5]](https://example.com) -->
 
 Figure 5. description for Figure 5
 
 ## Conclusion
-Your Conclusion here: 50 words here
+This project highlights the iterative struggle of refining AI-generated content, using humor to emphasize the disconnect between user intent and AI execution. As AI continues evolving, understanding its limitations, biases, and unpredictability remains crucial—especially in creative fields where human expectations don’t always align with machine logic.
 
-[![4-comma][images-fig6]](https://example.com)
+<!-- [![4-comma][images-fig6]](https://example.com) -->
 
 Figure 6. description for Figure 6
 
