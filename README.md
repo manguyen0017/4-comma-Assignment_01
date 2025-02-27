@@ -32,7 +32,7 @@
   </p>
 </div>
 
-[![4-comma][images-fig1]](https://example.com)
+[![4-comma][images-fig1]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig1.png)
 
 Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative process of using generative AI tools for art generation.
 
