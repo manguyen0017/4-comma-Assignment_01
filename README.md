@@ -34,7 +34,7 @@
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your image is not wide enough, it will not fill the page!
+Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative process of using generative AI tools for art generation.
 
 <!-- Abstract -->
 ## Abstract
@@ -51,9 +51,9 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 ### Inspiration
-[![4-comma][images-fig2]](www.gocomics.com/bignate/2004/08/29) <!-- Big Nate Comic -->
+[![4-comma][images-fig2]](https://www.gocomics.com/bignate/2004/08/29) <!-- Big Nate Comic -->
 
-Figure 2. Related works in this domain. 
+Figure 2. My 4-comma draws inspiration from this segment within Big Nate [4], an American comic strip, which subtly breaks the 4th wall. It utilizes 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
