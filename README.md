@@ -21,7 +21,7 @@
   <h3 align="center">4-Comma: The Headaches of Iterative AI Generation</h3>
 
   <p align="center">
-    Short two sentence project desctiption here!
+    This project explores the iterative frustrations of AI-generated content through a satirical 4-Koma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between computational logic and human expectations.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
