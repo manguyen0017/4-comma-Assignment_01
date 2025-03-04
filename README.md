@@ -34,7 +34,7 @@
 
 [![4-comma][images-fig1]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig1.png)
 
-Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative process of using generative AI tools for art generation.
+Figure 1. My Yonkoma satirizes the iterative loop of generative AI. The artist eagerly explains fixing an AI-generated hand, but the process spirals into an overwhelming monologue. While the hand is corrected, the final panel humorously exposes a new issue with the artist's legs, emphasizing AI’s endless cycle of iterative exploration.
 
 <!-- Abstract -->
 ## Abstract
