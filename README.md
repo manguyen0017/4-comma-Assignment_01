@@ -57,10 +57,12 @@ Beyond technical issues, user psychology influences how AI failures are perceive
 
 The prompt refinement struggle is further explored in studies on user interaction with text-to-image models, which highlight common frustrations and the need for more intuitive AI interfaces [3]. These works underscore the disconnect between AI logic and human expectations, a theme central to this project’s satirical exploration.
 
+### Built With
+ChatGPT, Anitoon.app's AI Comic Generator, Adobe Photoshop
 
 ## Methodology
 
-<!-- [![4-comma][images-fig3]](https://example.com) -->
+[![4-comma][images-fig3]](https://example.com)
 
 ### 2.1 Creative Workflow
 
