@@ -43,7 +43,7 @@ A satirical showcase of generative AI’s tendency to misinterpret human intent,
 ### Inspiration
 [![4-comma][images-fig2]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig2.png) <!-- Big Nate Comic -->
 
-Figure 2. My 4-comma draws inspiration from this segment within Big Nate [4], an American comic strip, which subtly breaks the 4th wall.
+Figure 2. My Yonkoma draws inspiration from this segment within Big Nate [4], an American comic strip, which subtly breaks the 4th wall.
 
 
 <!-- Introduction and Related Works -->
@@ -79,11 +79,11 @@ Figure 3. A structured breakdown Yonkoma prompt generation VIA ChatGPT to be use
 
 [![4-comma][images-fig4]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig4.png)
 
-Figure 4. The evolution of the comic through AI-generated iterations, emphasizing overall style consistency while maintaining the satirical message. Note that generated text and speech bubbles are automatically created on separate layers from the comic art. This modularity supports user-control and more accessibility upfront.
+Figure 4. The comic’s evolution through AI iterations, ensuring style consistency while preserving satire. Speech bubbles and text are generated on separate layers, enhancing modularity for better user control and accessibility.
 
 [![4-comma][images-fig5]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig5.png)
 
-Figure 5. Breakdown of the iterative AI generations for each panel, demonstrating refinements through multiple attempts to achieve coherence and accuracy. The excessive amount iterations for Panel 1 reveal the iterative loop trap as the user calibrates what generations look subjectively "good" and "bad." After a reevaluating expectations, developing satisfactory panels become easier.
+Figure 5. Breakdown of iterative AI generations per panel, refining coherence and accuracy. Panel 1’s high iteration count illustrates the loop trap of subjective regeneration. Reevaluation of expectations and user-control result in quicker iterations of later panels.
 
 [![4-comma][images-fig6]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig6.png)
 
@@ -114,13 +114,14 @@ The final Yonkoma successfully illustrates the frustrations of AI-driven art gen
 
 ### Future Work
 * Expanding beyond Yonkoma to explore longer-form AI generated comics and stories.
-* Experimenting with different AI models and modular techniques.
+* Experimenting with different AI models and tools.
+* Further exploring modular revision techniques for UI integration.
 * Investigating user perception of AI-generated failures through surveys or user testing.
 
 
 
 ## Conclusion
-This project highlights the iterative struggle of refining AI-generated content, using humor to emphasize the disconnect between user intent and AI execution. As AI continues evolving, understanding its limitations, biases, and unpredictability remains crucial—especially in creative fields where human expectations don’t always align with machine logic.
+This project highlights the struggle of iterating and refining AI-generated content, using humor to emphasize the disconnect between user intent, expectation, and AI execution. As AI tools continue to evolve, understanding its limitations, biases, and unpredictability remains crucial—especially in creative fields where human expectations don’t always align with machine logic.
 
 
 
