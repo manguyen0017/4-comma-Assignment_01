@@ -23,7 +23,7 @@
   <p align="center">
     This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between unbiased logic, AI-generated "failures" and human expectations.
     <br />
-    <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report»</strong></a>
+    <a href="https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/pdf/Yonkoma__The_Headaches_of_Iterative_AI_Generation.pdf"><strong>Link to PDF Report»</strong></a>
     <br />
     <br />
     <a href="https://manguyen.myportfolio.com/">Michael Nguyen</a>
