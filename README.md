@@ -18,10 +18,10 @@
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: The Headaches of Iterative AI Generation</h3>
+  <h3 align="center">Yonkoma: The Headaches of Iterative AI Generation</h3>
 
   <p align="center">
-    This project explores the iterative frustrations of AI-generated content through a satirical 4-Koma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between computational logic and human expectations.
+    This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between computational logic and human expectations.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
@@ -92,14 +92,14 @@ Figure 3. Methodology and Workflow: This figure should provide a comprehensive o
 Figure 4. description for Figure 5 -->
 
 ## Result and Future Work
-The final 4-Koma successfully illustrates the frustrations of AI-driven art generation, emphasizing the gap between user intent and AI execution. Each panel showcases common AI pitfalls:
+The final Yonkoma successfully illustrates the frustrations of AI-driven art generation, emphasizing the gap between user intent and AI execution. Each panel showcases common AI pitfalls:
 * Misinterpretation – AI generates incorrect anatomy.
 * Overcorrection – The user refines prompts, but AI takes adjustments too literally.
 * Temporary Success – The correction seems to work.
 * Unintended Failure – Fixing one issue causes another absurd problem.
 
 Future Work
-* Expanding beyond 4-Koma to explore longer-form AI satire.
+* Expanding beyond Yonkoma to explore longer-form AI satire.
 * Experimenting with different AI models and correction techniques.
 * Investigating user perception of AI-generated failures through surveys or user testing.
 
