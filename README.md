@@ -23,7 +23,7 @@
   <p align="center">
     This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between computational logic and human expectations.
     <br />
-    <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report»</strong></a>
     <br />
     <br />
     <a href="https://manguyen.myportfolio.com/">Michael Nguyen</a>
@@ -57,9 +57,10 @@ Beyond technical issues, user psychology influences how AI failures are perceive
 
 The prompt refinement struggle is further explored in studies on user interaction with text-to-image models, which highlight common frustrations and the need for more intuitive AI interfaces [3]. These works underscore the disconnect between AI logic and human expectations, a theme central to this project’s satirical exploration.
 
+
 ### Built With
 * ChatGPT
-* Anitoon.app's AI Comic Generator
+* Anitoon.app's "AI Comic Generator" and "Create Comic on Canvas" pages
 * Adobe Photoshop
 
 ## Methodology
@@ -69,7 +70,7 @@ The prompt refinement struggle is further explored in studies on user interactio
 The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool designed to streamline comic creation. The process involved several stages of iteration and refinement to achieve the desired visual style and narrative clarity.
 
 * Step 1: Used the "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
-* Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations.
+* Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations. The use of layered shapes and text help mitigate artifacts and allowed for greater flexibility in iterative refinements.
 * Step 3: Exported the final AI-generated panels to Photoshop, where manual edits were made to ensure stylistic cohesion, correct inconsistencies, and refine details that AI misinterpreted.
 
 [![4-comma][images-fig3]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig3.png)
@@ -92,14 +93,13 @@ Figure 6. Post-processing workflow in Photoshop, including dialogue integration,
 ### Challenges & Iterative Process
 
 * Maintaining style consistency across panels.
-* Addressing AI hallucinations (e.g., malformed hands, extra limbs, distorted anatomy).
 * Ensuring coherent character expressions and proportions.
 * Avoiding unintended AI artifacts that could detract from the joke’s clarity.
 
 
 ### Tools & Techniques Used
 
-* AI Model: Anitoon.app AI Comic Generator (model specifics undisclosed).
+* AI-models: Chat-GPT; Anitoon.app AI Comic Generator (model specifics undisclosed).
 * Post-processing software: Adobe Photoshop for manual refinements.
 * Prompting strategies: Iterative AI generations, isolated panel adjustments, and selective negative prompts to refine details.
 
@@ -112,9 +112,9 @@ The final Yonkoma successfully illustrates the frustrations of AI-driven art gen
 * Temporary Success – The correction seems to work.
 * Unintended Failure – Fixing one issue causes another absurd problem.
 
-Future Work
-* Expanding beyond Yonkoma to explore longer-form AI satire.
-* Experimenting with different AI models and correction techniques.
+### Future Work
+* Expanding beyond Yonkoma to explore longer-form AI generated comics and stories.
+* Experimenting with different AI models and modular techniques.
 * Investigating user perception of AI-generated failures through surveys or user testing.
 
 
@@ -131,7 +131,6 @@ This project highlights the iterative struggle of refining AI-generated content,
 [2] Jones-Jang, S. Mo, and Yong Jin Park. "How do people react to AI failure? Automation bias, algorithmic aversion, and perceived controllability." Journal of Computer-Mediated Communication 28.1 (2023): zmac029.
 
 [3] Mahdavi Goloujeh, Atefeh, Anne Sullivan, and Brian Magerko. "Is It AI or Is It Me? Understanding Users’ Prompt Journey with Text-to-Image Generative AI Tools." Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. 2024.
-
 
 [4] Peirce, Lincoln. “Big Nate by Lincoln Peirce for August 29, 2004.” GoComics, 29 Aug. 2004, www.gocomics.com/bignate/2004/08/29.
 
