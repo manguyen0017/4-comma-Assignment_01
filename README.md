@@ -62,6 +62,16 @@ ChatGPT, Anitoon.app's AI Comic Generator, Adobe Photoshop
 
 ## Methodology
 
+### 2.1 Creative Workflow
+
+The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool designed to streamline comic creation. The process involved several stages of iteration and refinement to achieve the desired visual style and narrative clarity.
+
+* Step 1: Used the "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
+
+* Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations.
+
+* Step 3: Exported the final AI-generated panels to Photoshop, where manual edits were made to ensure stylistic cohesion, correct inconsistencies, and refine details that AI misinterpreted.
+
 [![4-comma][images-fig3]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig3.png)
 
 Figure 3. A structured breakdown of the Yonkoma's narrative, defining key panel roles and refining the humor-driven AI satire through brainstorming.
@@ -78,12 +88,6 @@ Figure 5. Breakdown of the iterative AI generations for each panel, demonstratin
 
 Figure 6. Post-processing workflow in Photoshop, including dialogue integration, final corrections, and manual refinements to enhance clarity and humor.
 
-### 2.1 Creative Workflow
-
-The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool designed to streamline comic creation. The process involved several stages of iteration and refinement to achieve the desired visual style and narrative clarity.
-* Step 1: Used the "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
-* Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations.
-* Step 3: Exported the final AI-generated panels to Photoshop, where manual edits were made to ensure stylistic cohesion, correct inconsistencies, and refine details that AI misinterpreted.
 
 ### 2.2 Challenges & Iterative Process
 
@@ -92,12 +96,12 @@ The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool
 * Ensuring coherent character expressions and proportions.
 * Avoiding unintended AI artifacts that could detract from the joke’s clarity.
 
+
 ### 2.3 Tools & Techniques Used
 
 * AI Model: Anitoon.app AI Comic Generator (model specifics undisclosed).
 * Post-processing software: Adobe Photoshop for manual refinements.
 * Prompting strategies: Iterative AI generations, isolated panel adjustments, and selective negative prompts to refine details.
-
 
 
 
