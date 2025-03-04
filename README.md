@@ -41,7 +41,7 @@ Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative proce
 A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s early-state logic and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustration in AI-driven creative tools.
 
 ### Inspiration
-[![4-comma][images-fig2]](https://www.gocomics.com/bignate/2004/08/29) <!-- Big Nate Comic -->
+[![4-comma][images-fig2]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig2.png) <!-- Big Nate Comic -->
 
 Figure 2. My 4-comma draws inspiration from this segment within Big Nate [4], an American comic strip, which subtly breaks the 4th wall.
 
@@ -62,7 +62,21 @@ ChatGPT, Anitoon.app's AI Comic Generator, Adobe Photoshop
 
 ## Methodology
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig3]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig3.png)
+
+Figure 3. A structured breakdown of the 4-Koma's narrative, defining key panel roles and refining the humor-driven AI satire through brainstorming.
+
+[![4-comma][images-fig4]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig4.png)
+
+Figure 4. The evolution of the comic’s style through AI-generated iterations, emphasizing overall style consistency while maintaining the satirical message.
+
+[![4-comma][images-fig5]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig5.png)
+
+Figure 5. Breakdown of the iterative AI generations for each panel, demonstrating refinements through multiple attempts to achieve coherence and accuracy.
+
+[![4-comma][images-fig6]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig6.png)
+
+Figure 6. Post-processing workflow in Photoshop, including dialogue integration, final corrections, and manual refinements to enhance clarity and humor.
 
 ### 2.1 Creative Workflow
 
@@ -85,11 +99,7 @@ The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool
 * Prompting strategies: Iterative AI generations, isolated panel adjustments, and selective negative prompts to refine details.
 
 
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
-<!-- [![4-comma][images-fig4]](https://example.com)
-
-Figure 4. description for Figure 5 -->
 
 ## Result and Future Work
 The final Yonkoma successfully illustrates the frustrations of AI-driven art generation, emphasizing the gap between user intent and AI execution. Each panel showcases common AI pitfalls:
@@ -103,16 +113,12 @@ Future Work
 * Experimenting with different AI models and correction techniques.
 * Investigating user perception of AI-generated failures through surveys or user testing.
 
-<!-- [![4-comma][images-fig5]](https://example.com)
 
-Figure 5. description for Figure 5 -->
 
 ## Conclusion
 This project highlights the iterative struggle of refining AI-generated content, using humor to emphasize the disconnect between user intent and AI execution. As AI continues evolving, understanding its limitations, biases, and unpredictability remains crucial—especially in creative fields where human expectations don’t always align with machine logic.
 
-<!-- [![4-comma][images-fig6]](https://example.com)
 
-Figure 6. description for Figure 6 -->
 
 <!-- Bibliography -->
 ## Bibliography 
