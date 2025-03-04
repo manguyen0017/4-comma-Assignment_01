@@ -21,7 +21,7 @@
   <h3 align="center">Yonkoma: The Headaches of Iterative AI Generation</h3>
 
   <p align="center">
-    This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between unbiased logic, AI-generated "failures" and human expectations.
+    This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic, highlighting AI’s frequent hallucinations and the psychological rollercoaster that comes with addressing them. The comic uses humor to showcase the disconnect between pre-trained unbiased logic, AI-generated "failures" and human expectations.
     <br />
     <a href="https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/pdf/Yonkoma__The_Headaches_of_Iterative_AI_Generation.pdf"><strong>Link to PDF Report»</strong></a>
     <br />
@@ -38,7 +38,7 @@ Figure 1. My Yonkoma satirizes the iterative loop of generative AI. The artist e
 
 <!-- Abstract -->
 ## Abstract
-A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s structured, early-state logic and subjective human expectations, highlighting issues like bias, prompt "failure," and human psychological responses to iterative AI-driven tools.
+A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s structured, pre-trained logic and subjective human expectations, highlighting issues like bias, prompt "failure," and human psychological responses to iterative AI-driven tools.
 
 ### Inspiration
 [![4-comma][images-fig2]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig2.png) <!-- Big Nate Comic -->
