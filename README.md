@@ -21,7 +21,7 @@
   <h3 align="center">Yonkoma: The Headaches of Iterative AI Generation</h3>
 
   <p align="center">
-    This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between computational logic and human expectations.
+    This project explores the iterative frustrations of AI-generated content through a satirical Yonkoma comic. It highlights AI’s frequent misinterpretations, overcorrections, and hallucinations, using humor to showcase the disconnect between unbiased logic, AI-generated "failures" and human expectations.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report»</strong></a>
     <br />
@@ -38,7 +38,7 @@ Figure 1. This is my 4-comma, it is a satirical nudge toward the iterative proce
 
 <!-- Abstract -->
 ## Abstract
-A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s early-state logic and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustration in AI-driven creative tools.
+A satirical showcase of generative AI’s tendency to misinterpret human intent, often overcorrecting or hallucinating unexpected results. It explores the gap between AI’s unbiased logic and human expectations, highlighting issues like bias, subjective prompt failure, and iterative frustration in AI-driven creative tools.
 
 ### Inspiration
 [![4-comma][images-fig2]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig2.png) <!-- Big Nate Comic -->
@@ -69,21 +69,21 @@ The prompt refinement struggle is further explored in studies on user interactio
 
 The comic was created using Anitoon.app's AI Comic Generator, an AI-powered tool designed to streamline comic creation. The process involved several stages of iteration and refinement to achieve the desired visual style and narrative clarity.
 
-* Step 1: Used the "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
+* Step 1: After developing a prompt using ChatGPT, use the Anitoon.app's "Comic-Generator" page to generate multiple 2x2 panel iterations, experimenting with different styles.
 * Step 2: Once satisfied with the general style, transferred the comic to the "Create Comic on Canvas" page, allowing for individual panel modifications through isolated AI generations. The use of layered shapes and text help mitigate artifacts and allowed for greater flexibility in iterative refinements.
 * Step 3: Exported the final AI-generated panels to Photoshop, where manual edits were made to ensure stylistic cohesion, correct inconsistencies, and refine details that AI misinterpreted.
 
 [![4-comma][images-fig3]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig3.png)
 
-Figure 3. A structured breakdown of the Yonkoma's narrative, defining key panel roles and refining the humor-driven AI satire through brainstorming.
+Figure 3. A structured breakdown of the Yonkoma's narrative for ChatGPT prompt generation: defining comic style, key panel contextal content, and refining the humor-driven AI satire through brainstorming.
 
 [![4-comma][images-fig4]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig4.png)
 
-Figure 4. The evolution of the comic’s style through AI-generated iterations, emphasizing overall style consistency while maintaining the satirical message.
+Figure 4. The evolution of the comic through AI-generated iterations, emphasizing overall style consistency while maintaining the satirical message. Note that generated text and speech bubbles are automatically created on separate layers from the comic art. This modularity supports user-control and more accessibility upfront.
 
 [![4-comma][images-fig5]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig5.png)
 
-Figure 5. Breakdown of the iterative AI generations for each panel, demonstrating refinements through multiple attempts to achieve coherence and accuracy.
+Figure 5. Breakdown of the iterative AI generations for each panel, demonstrating refinements through multiple attempts to achieve coherence and accuracy. The excessive amount iterations for Panel 1 reveal the iterative loop trap as the user calibrates what generations look subjectively "good" and "bad." After a reevaluating expectations, developing satisfactory panels become easier.
 
 [![4-comma][images-fig6]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig6.png)
 
@@ -93,8 +93,8 @@ Figure 6. Post-processing workflow in Photoshop, including dialogue integration,
 ### Challenges & Iterative Process
 
 * Maintaining style consistency across panels.
-* Ensuring coherent character expressions and proportions.
-* Avoiding unintended AI artifacts that could detract from the joke’s clarity.
+* Ensuring intended character expressions and proportions.
+* Intentionally producing generated hand hallucinations and distortions.
 
 
 ### Tools & Techniques Used
