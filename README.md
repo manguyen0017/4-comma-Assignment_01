@@ -64,7 +64,7 @@ ChatGPT, Anitoon.app's AI Comic Generator, Adobe Photoshop
 
 [![4-comma][images-fig3]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig3.png)
 
-Figure 3. A structured breakdown of the 4-Koma's narrative, defining key panel roles and refining the humor-driven AI satire through brainstorming.
+Figure 3. A structured breakdown of the Yonkoma's narrative, defining key panel roles and refining the humor-driven AI satire through brainstorming.
 
 [![4-comma][images-fig4]](https://github.com/manguyen0017/4-comma-Assignment_01/blob/main/images/fig4.png)
 
